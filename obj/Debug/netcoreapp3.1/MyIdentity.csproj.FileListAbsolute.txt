@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\MyIdentity\bin\Debug\netcoreapp3.1\MyIdentity.deps.json
+C:\Users\user\source\repos\MyIdentity\bin\Debug\netcoreapp3.1\MyIdentity.dll
+C:\Users\user\source\repos\MyIdentity\bin\Debug\netcoreapp3.1\MyIdentity.pdb
+C:\Users\user\source\repos\MyIdentity\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\user\source\repos\MyIdentity\bin\Debug\netcoreapp3.1\ORM{1_21}.dll
+C:\Users\user\source\repos\MyIdentity\bin\Debug\netcoreapp3.1\ORM{1_21}.pdb
+C:\Users\user\source\repos\MyIdentity\bin\Debug\netcoreapp3.1\ORM{1_21}.xml
+C:\Users\user\source\repos\MyIdentity\obj\Debug\netcoreapp3.1\MyIdentity.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MyIdentity\obj\Debug\netcoreapp3.1\MyIdentity.ResourceMy.resources
+C:\Users\user\source\repos\MyIdentity\obj\Debug\netcoreapp3.1\MyIdentity.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyIdentity\obj\Debug\netcoreapp3.1\MyIdentity.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyIdentity\obj\Debug\netcoreapp3.1\MyIdentity.AssemblyInfo.cs
+C:\Users\user\source\repos\MyIdentity\obj\Debug\netcoreapp3.1\MyIdentity.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyIdentity\obj\Debug\netcoreapp3.1\MyIdentity.csproj.CopyComplete
+C:\Users\user\source\repos\MyIdentity\obj\Debug\netcoreapp3.1\MyIdentity.dll
+C:\Users\user\source\repos\MyIdentity\obj\Debug\netcoreapp3.1\MyIdentity.pdb
